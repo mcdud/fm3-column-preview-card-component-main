@@ -109,7 +109,7 @@ body {
   background-color: var(--very-dark-cyan);
 }
 
-@media (min-width: 900px) {
+@media (min-width: 950px) {
   .card {
     flex-direction: row;
   }
